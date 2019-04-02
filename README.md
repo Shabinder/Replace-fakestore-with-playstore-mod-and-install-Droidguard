@@ -1,4 +1,4 @@
- ##Replace-fakestore-with-playstore-mod-and-install-Droidguard
+ ## Replace-fakestore-with-playstore-mod-and-install-Droidguard
  
 This is a module to simple replace fakestore with playstore and install droidguard helper in **los microg forks**, as many prefer microg over gapps and for an easy life thgey just install los microg for **but los microg comes with fakestore and no droid guard helper which breaks safetnet and user cant use paid apps as yalp store/aurora store downloaded paid apps doesnt pass license verification** 
  
