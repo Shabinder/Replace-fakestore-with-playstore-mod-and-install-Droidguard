@@ -6,9 +6,9 @@
 
 ---
 
-### Is this module for me?
+### What does this module do?
 
-LineageOS for microG comes with the FakeStore and *not with the Play Store client*. **This prevents user from purchasing apps**, as to purchase apps you need an official Play Store client. **This modules fixes it by replacing Fake Store with a modified Play Store**.
+LineageOS for microG comes with the FakeStore and *not with the Play Store client*. **This prevents user from purchasing apps**, as to purchase apps you need an official Play Store client. **This modules fixes this by replacing Fake Store with a modified Play Store**.
 
 * For updating the Play Store, add this repo to F-Droid: https://nanolx.org/fdroid/repo?fingerprint=862ED9F13A3981432BF86FE93D14596B381D75BE83A1D616E2D44A12654AD015
 
