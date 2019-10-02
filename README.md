@@ -1,12 +1,12 @@
 ## Replace FakeStore with Play Store mod and install DroidGuard
 
-#### This is a module that replaces FakeStore with Play Store and installs DroidGuard Helper on **[LineageOS for microG](https://lineage.microg.org/)**.
+#### This is a module that replaces FakeStore with a modified Play Store and installs DroidGuard Helper on **[LineageOS for microG](https://lineage.microg.org/)**.
 
 ---
 
 ### Is this module for me?
 
-LineageOS for microG comes with the Fake Store and *not with the Play Store client*. **This prevents user from purchasing apps**, as to purchase apps you need an official Play Store client. **This modules fixes it by replacing Fake Store with an Play Store**.
+LineageOS for microG comes with the FakeStore and *not with the Play Store client*. **This prevents user from purchasing apps**, as to purchase apps you need an official Play Store client. **This modules fixes it by replacing Fake Store with a modified Play Store**.
 
 * For updating the Play Store, add this repo to F-Droid: https://nanolx.org/fdroid/repo?fingerprint=862ED9F13A3981432BF86FE93D14596B381D75BE83A1D616E2D44A12654AD015
 
