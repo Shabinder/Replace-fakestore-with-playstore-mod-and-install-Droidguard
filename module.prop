@@ -1,6 +1,6 @@
 id=a.module
-name=replace fakestore with playstore and install Droidguard(microg)
+name=Replace FakeStore with Play Store mod and install DroidGuard
 version=v1
 versionCode=1
-author=Techno Shab(m@rvin , nanolx)
-description=Module for replacing fakestore with modified playstore for microg(credits=nanolx) and installing droid guard(m@rvin).
+author=Techno Shab(m@rvin, nanolx)
+description=Module for replacing FakeStore with a modified Play Store for microG (credits=nanolx) and installing DroidGuard (m@rvin).
