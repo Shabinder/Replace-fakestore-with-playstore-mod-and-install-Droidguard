@@ -125,8 +125,8 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     REPLACE FAKESTORE WITH MODDED PLAYSTORE    "
-  ui_print "       by-TECHNO SHAB (app credits nanolx)      "
+  ui_print "     REPLACE FAKESTORE WITH MODDED PLAY STORE      "
+  ui_print "      by-TECHNO SHAB (app credits for nanolx)      "
   ui_print "*******************************"
 }
 
