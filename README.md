@@ -1,4 +1,4 @@
-## Replace FakeStore with Play Store mod and install DroidGuard
+## Replace FakeStore with Play Store mod and install DroidGuard [Not Maintained Anymore!]
 
 #### This is a module that replaces FakeStore with a modified Play Store and installs DroidGuard Helper on **[LineageOS for microG](https://lineage.microg.org/)**.
 
